@@ -1,0 +1,32 @@
+_repo: Where-the-Strange-Trails-Go-DownCochin-China_27404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Powell, E. Alexander (Edward Alexander)
+    aliases:
+    - Powell, E. A. (Edward Alexander)
+    - Powell, Edward Alexander
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '3963'
+    url: http://www.gutenberg.org/2009/agents/3963
+    wikipedia: http://en.wikipedia.org/wiki/E._Alexander_Powell
+description: ''
+gutenberg_issued: '2008-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27404'
+  lccn: '21019410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southeast Asia -- Description and travel'
+- !lcc 'DS'
+title: "Where the Strange Trails Go Down\r\nSulu, Borneo, Celebes, Bali, Java, Sumatra,\
+  \ Straits Settlements, Malay States, Siam, Cambodia, Annam, Cochin-China"
+url: http://www.gutenberg.org/ebooks/27404
